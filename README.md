@@ -33,15 +33,12 @@ Notice
 
 GoHop is built on top of Linux's `tun/tap` device. **Currently it supports neither Windows nor OS X**
 
-I think it would not be very difficult to port it to OS X. However, I'm not able to develop a OS X edition as I'm not a mac owner. If
-u wanna help, please fork and send me pull requests, I'd appreciate it.
-
 How To Use
 ------
 
 ### Download
 
-You can get updated release from https://github.com/bigeagle/gohop/releases , go programs are static-linked, so it's very likely that my
+You can get updated releases from https://github.com/NexWeb/gohop/releases, go programs are static-linked, so it's very likely that my
 pre-built releases can run on your box.
 
 ### Build and Install
@@ -51,7 +48,7 @@ pre-built releases can run on your box.
 gohop is a go-gettable package:
 
 ```
-go get github.com/bigeagle/gohop
+go get github.com/NexWeb/gohop
 ```
 
 ### Config and Run
